@@ -26,7 +26,7 @@
     "http-list-provider": "0.0.5",
     "ioredis": "^3.2.2",
     "lodash": "^4.17.11",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "pino": "^4.17.6",
     "pino-pretty": "^2.6.0",
     "promise-limit": "^2.7.0",
